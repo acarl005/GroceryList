@@ -37,3 +37,7 @@ footer {
 .navbar-brand a {
   color: #ccc;
 }
+
+.edit {
+  width: 50px;
+}
